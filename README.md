@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navjot</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
+<img align="right"alt="analysis"width="400"src"https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navjotkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="navjotkhatri" /> </p>
 
@@ -26,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navjotkhatri&show_icons=true&locale=en" alt="navjotkhatri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navjotkhatri&" alt="navjotkhatri" /></p>
+
