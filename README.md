@@ -29,3 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navjotkhatri&" alt="navjotkhatri" /></p>
 
+Follow me for more and hit a star on repo
