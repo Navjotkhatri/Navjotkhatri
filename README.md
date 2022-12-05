@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navjot.k.</h1>
+<h1 align="center">Hi 👋, I'm Navjot.</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <img align="right"alt="data"width="400"src="https://github.com/Navjotkhatri/Navjotkhatri/blob/main/data-science-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navjotkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="navjotkhatri" /> </p>
