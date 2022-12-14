@@ -3,7 +3,7 @@
 <img align="right"alt="data"width="400"src="https://github.com/Navjotkhatri/Navjotkhatri/blob/main/data-science-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navjotkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="navjotkhatri" /> </p>
 
-- 🔭 I’m currently working on **Hotel booking-EDA**
+- 🔭 I’m currently working on **worldbank global education analysis-EDA**
 
 - 🌱 I’m currently learning **Full stack Data science**
 
