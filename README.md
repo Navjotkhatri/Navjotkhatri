@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navjotkhatri&show_icons=true&locale=en" alt="navjotkhatri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navjotkhatri&" alt="navjotkhatri" /></p>
-<h4> Follow for more and hit a star on repo...😊❤️❤️.<h4>
+<h4> Follow for more and hit a star on repo..😊❤️❤️.<h4>
